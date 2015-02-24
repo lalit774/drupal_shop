@@ -1,0 +1,23 @@
+name = initializer
+description = Initializer module is a helper module to keep configuration of WebSite .
+package = Custom
+core = 7.x
+version = "7.x-0.1"
+
+;core
+dependencies[] = list
+dependencies[] = image
+dependencies[] = text
+dependencies[] = number
+dependencies[] = date
+dependencies[] = menu
+dependencies[] = field
+dependencies[] = field_ui
+
+
+;contrib
+dependencies[] = admin_menu
+
+;custom
+;custom dummy data
+;dependencies[] = gallery_demo_hack
