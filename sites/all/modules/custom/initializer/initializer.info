@@ -17,6 +17,15 @@ dependencies[] = field_ui
 
 ;contrib
 dependencies[] = admin_menu
+dependencies[] = features
+dependencies[] = date
+dependencies[] = token
+dependencies[] = pathauto
+dependencies[] = views
+dependencies[] = ctools
+dependencies[] = libraries
+
+
 
 ;custom
 ;custom dummy data
